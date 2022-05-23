@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Largest prime factor/1.0.0": {
+        "runtime": {
+          "Largest prime factor.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Largest prime factor/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

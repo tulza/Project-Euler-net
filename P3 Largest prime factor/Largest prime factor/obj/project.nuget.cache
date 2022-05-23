@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "ESKfW14FmzAHEl2E6Sm8zxA/SFSJib1Go0CdObbfShpbmr/V6hat71MQPYizMbqzS0QdihYmpE8G5gmP5Qzzbg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\tulza\\source\\repos\\Project Euler net\\P3 Largest prime factor\\Largest prime factor\\Largest prime factor.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\tulza\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.24\\microsoft.netcore.app.host.win-x64.3.1.24.nupkg.sha512"
+  ],
+  "logs": []
+}

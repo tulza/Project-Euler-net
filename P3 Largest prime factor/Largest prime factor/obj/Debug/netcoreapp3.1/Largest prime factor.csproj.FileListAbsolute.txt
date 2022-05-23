@@ -1,0 +1,14 @@
+C:\Users\tulza\source\repos\Project Euler net\Largest prime factor\Largest prime factor\bin\Debug\netcoreapp3.1\Largest prime factor.exe
+C:\Users\tulza\source\repos\Project Euler net\Largest prime factor\Largest prime factor\bin\Debug\netcoreapp3.1\Largest prime factor.deps.json
+C:\Users\tulza\source\repos\Project Euler net\Largest prime factor\Largest prime factor\bin\Debug\netcoreapp3.1\Largest prime factor.runtimeconfig.json
+C:\Users\tulza\source\repos\Project Euler net\Largest prime factor\Largest prime factor\bin\Debug\netcoreapp3.1\Largest prime factor.runtimeconfig.dev.json
+C:\Users\tulza\source\repos\Project Euler net\Largest prime factor\Largest prime factor\bin\Debug\netcoreapp3.1\Largest prime factor.dll
+C:\Users\tulza\source\repos\Project Euler net\Largest prime factor\Largest prime factor\bin\Debug\netcoreapp3.1\Largest prime factor.pdb
+C:\Users\tulza\source\repos\Project Euler net\Largest prime factor\Largest prime factor\obj\Debug\netcoreapp3.1\Largest prime factor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tulza\source\repos\Project Euler net\Largest prime factor\Largest prime factor\obj\Debug\netcoreapp3.1\Largest prime factor.AssemblyInfoInputs.cache
+C:\Users\tulza\source\repos\Project Euler net\Largest prime factor\Largest prime factor\obj\Debug\netcoreapp3.1\Largest prime factor.AssemblyInfo.cs
+C:\Users\tulza\source\repos\Project Euler net\Largest prime factor\Largest prime factor\obj\Debug\netcoreapp3.1\Largest prime factor.csproj.CoreCompileInputs.cache
+C:\Users\tulza\source\repos\Project Euler net\Largest prime factor\Largest prime factor\obj\Debug\netcoreapp3.1\Largest prime factor.dll
+C:\Users\tulza\source\repos\Project Euler net\Largest prime factor\Largest prime factor\obj\Debug\netcoreapp3.1\Largest prime factor.pdb
+C:\Users\tulza\source\repos\Project Euler net\Largest prime factor\Largest prime factor\obj\Debug\netcoreapp3.1\Largest prime factor.genruntimeconfig.cache
+C:\Users\tulza\source\repos\Project Euler net\Largest prime factor\Largest prime factor\obj\Debug\netcoreapp3.1\Largest prime factor.csproj.AssemblyReference.cache

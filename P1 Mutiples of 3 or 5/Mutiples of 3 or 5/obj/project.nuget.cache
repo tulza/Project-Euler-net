@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "3/rQHl/U2uGTkJgBl+1b44ta5MI9bSFmS2kqlbangQPMbeYlkQVHVysGvrJ9xKiznRo34EYdgmjBJ38Wb3PJVg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\tulza\\source\\repos\\Project Euler net\\P1 Mutiples of 3 or 5\\Mutiples of 3 or 5\\Mutiples of 3 or 5.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\tulza\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.24\\microsoft.netcore.app.host.win-x64.3.1.24.nupkg.sha512"
+  ],
+  "logs": []
+}

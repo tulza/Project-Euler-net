@@ -1,0 +1,14 @@
+C:\Users\tulza\source\repos\Project Euler net\Largest palindrome product\Largest palindrome product\bin\Debug\netcoreapp3.1\Largest palindrome product.exe
+C:\Users\tulza\source\repos\Project Euler net\Largest palindrome product\Largest palindrome product\bin\Debug\netcoreapp3.1\Largest palindrome product.deps.json
+C:\Users\tulza\source\repos\Project Euler net\Largest palindrome product\Largest palindrome product\bin\Debug\netcoreapp3.1\Largest palindrome product.runtimeconfig.json
+C:\Users\tulza\source\repos\Project Euler net\Largest palindrome product\Largest palindrome product\bin\Debug\netcoreapp3.1\Largest palindrome product.runtimeconfig.dev.json
+C:\Users\tulza\source\repos\Project Euler net\Largest palindrome product\Largest palindrome product\bin\Debug\netcoreapp3.1\Largest palindrome product.dll
+C:\Users\tulza\source\repos\Project Euler net\Largest palindrome product\Largest palindrome product\bin\Debug\netcoreapp3.1\Largest palindrome product.pdb
+C:\Users\tulza\source\repos\Project Euler net\Largest palindrome product\Largest palindrome product\obj\Debug\netcoreapp3.1\Largest palindrome product.csproj.AssemblyReference.cache
+C:\Users\tulza\source\repos\Project Euler net\Largest palindrome product\Largest palindrome product\obj\Debug\netcoreapp3.1\Largest palindrome product.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tulza\source\repos\Project Euler net\Largest palindrome product\Largest palindrome product\obj\Debug\netcoreapp3.1\Largest palindrome product.AssemblyInfoInputs.cache
+C:\Users\tulza\source\repos\Project Euler net\Largest palindrome product\Largest palindrome product\obj\Debug\netcoreapp3.1\Largest palindrome product.AssemblyInfo.cs
+C:\Users\tulza\source\repos\Project Euler net\Largest palindrome product\Largest palindrome product\obj\Debug\netcoreapp3.1\Largest palindrome product.csproj.CoreCompileInputs.cache
+C:\Users\tulza\source\repos\Project Euler net\Largest palindrome product\Largest palindrome product\obj\Debug\netcoreapp3.1\Largest palindrome product.dll
+C:\Users\tulza\source\repos\Project Euler net\Largest palindrome product\Largest palindrome product\obj\Debug\netcoreapp3.1\Largest palindrome product.pdb
+C:\Users\tulza\source\repos\Project Euler net\Largest palindrome product\Largest palindrome product\obj\Debug\netcoreapp3.1\Largest palindrome product.genruntimeconfig.cache
