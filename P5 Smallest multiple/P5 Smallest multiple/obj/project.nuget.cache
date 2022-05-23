@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "bv3tIZigYpGvZGHgrSP/pDjRLottMBGazWVrrjRcobAf2Rw6s1fGyJI2WeTeHjX141nj2zzvhJmcHEGrNEirAw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\tulza\\source\\repos\\tulza\\Project-Euler-net\\P5 Smallest multiple\\P5 Smallest multiple\\P5 Smallest multiple.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\tulza\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.24\\microsoft.netcore.app.host.win-x64.3.1.24.nupkg.sha512"
+  ],
+  "logs": []
+}

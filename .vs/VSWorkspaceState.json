@@ -1,7 +1,9 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\P4 Largest palindrome product",
+    "\\P4 Largest palindrome product\\Largest palindrome product"
   ],
-  "SelectedNode": "\\P1 Mutiples of 3 or 5.sln",
+  "SelectedNode": "\\P4 Largest palindrome product\\Largest palindrome product\\Program.cs",
   "PreviewInSolutionExplorer": false
 }

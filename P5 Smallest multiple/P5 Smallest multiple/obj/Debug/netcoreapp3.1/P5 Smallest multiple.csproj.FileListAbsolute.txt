@@ -1,0 +1,14 @@
+C:\Users\tulza\source\repos\tulza\Project-Euler-net\P5 Smallest multiple\P5 Smallest multiple\bin\Debug\netcoreapp3.1\P5 Smallest multiple.exe
+C:\Users\tulza\source\repos\tulza\Project-Euler-net\P5 Smallest multiple\P5 Smallest multiple\bin\Debug\netcoreapp3.1\P5 Smallest multiple.deps.json
+C:\Users\tulza\source\repos\tulza\Project-Euler-net\P5 Smallest multiple\P5 Smallest multiple\bin\Debug\netcoreapp3.1\P5 Smallest multiple.runtimeconfig.json
+C:\Users\tulza\source\repos\tulza\Project-Euler-net\P5 Smallest multiple\P5 Smallest multiple\bin\Debug\netcoreapp3.1\P5 Smallest multiple.runtimeconfig.dev.json
+C:\Users\tulza\source\repos\tulza\Project-Euler-net\P5 Smallest multiple\P5 Smallest multiple\bin\Debug\netcoreapp3.1\P5 Smallest multiple.dll
+C:\Users\tulza\source\repos\tulza\Project-Euler-net\P5 Smallest multiple\P5 Smallest multiple\bin\Debug\netcoreapp3.1\P5 Smallest multiple.pdb
+C:\Users\tulza\source\repos\tulza\Project-Euler-net\P5 Smallest multiple\P5 Smallest multiple\obj\Debug\netcoreapp3.1\P5 Smallest multiple.csproj.AssemblyReference.cache
+C:\Users\tulza\source\repos\tulza\Project-Euler-net\P5 Smallest multiple\P5 Smallest multiple\obj\Debug\netcoreapp3.1\P5 Smallest multiple.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tulza\source\repos\tulza\Project-Euler-net\P5 Smallest multiple\P5 Smallest multiple\obj\Debug\netcoreapp3.1\P5 Smallest multiple.AssemblyInfoInputs.cache
+C:\Users\tulza\source\repos\tulza\Project-Euler-net\P5 Smallest multiple\P5 Smallest multiple\obj\Debug\netcoreapp3.1\P5 Smallest multiple.AssemblyInfo.cs
+C:\Users\tulza\source\repos\tulza\Project-Euler-net\P5 Smallest multiple\P5 Smallest multiple\obj\Debug\netcoreapp3.1\P5 Smallest multiple.csproj.CoreCompileInputs.cache
+C:\Users\tulza\source\repos\tulza\Project-Euler-net\P5 Smallest multiple\P5 Smallest multiple\obj\Debug\netcoreapp3.1\P5 Smallest multiple.dll
+C:\Users\tulza\source\repos\tulza\Project-Euler-net\P5 Smallest multiple\P5 Smallest multiple\obj\Debug\netcoreapp3.1\P5 Smallest multiple.pdb
+C:\Users\tulza\source\repos\tulza\Project-Euler-net\P5 Smallest multiple\P5 Smallest multiple\obj\Debug\netcoreapp3.1\P5 Smallest multiple.genruntimeconfig.cache

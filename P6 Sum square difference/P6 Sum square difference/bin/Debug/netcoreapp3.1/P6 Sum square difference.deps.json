@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "P6 Sum square difference/1.0.0": {
+        "runtime": {
+          "P6 Sum square difference.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "P6 Sum square difference/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

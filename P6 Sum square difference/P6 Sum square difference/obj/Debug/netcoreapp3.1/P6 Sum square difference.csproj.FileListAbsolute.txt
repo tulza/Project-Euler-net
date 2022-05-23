@@ -1,0 +1,14 @@
+C:\Users\tulza\source\repos\tulza\Project-Euler-net\P6 Sum square difference\P6 Sum square difference\bin\Debug\netcoreapp3.1\P6 Sum square difference.exe
+C:\Users\tulza\source\repos\tulza\Project-Euler-net\P6 Sum square difference\P6 Sum square difference\bin\Debug\netcoreapp3.1\P6 Sum square difference.deps.json
+C:\Users\tulza\source\repos\tulza\Project-Euler-net\P6 Sum square difference\P6 Sum square difference\bin\Debug\netcoreapp3.1\P6 Sum square difference.runtimeconfig.json
+C:\Users\tulza\source\repos\tulza\Project-Euler-net\P6 Sum square difference\P6 Sum square difference\bin\Debug\netcoreapp3.1\P6 Sum square difference.runtimeconfig.dev.json
+C:\Users\tulza\source\repos\tulza\Project-Euler-net\P6 Sum square difference\P6 Sum square difference\bin\Debug\netcoreapp3.1\P6 Sum square difference.dll
+C:\Users\tulza\source\repos\tulza\Project-Euler-net\P6 Sum square difference\P6 Sum square difference\bin\Debug\netcoreapp3.1\P6 Sum square difference.pdb
+C:\Users\tulza\source\repos\tulza\Project-Euler-net\P6 Sum square difference\P6 Sum square difference\obj\Debug\netcoreapp3.1\P6 Sum square difference.csproj.AssemblyReference.cache
+C:\Users\tulza\source\repos\tulza\Project-Euler-net\P6 Sum square difference\P6 Sum square difference\obj\Debug\netcoreapp3.1\P6 Sum square difference.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tulza\source\repos\tulza\Project-Euler-net\P6 Sum square difference\P6 Sum square difference\obj\Debug\netcoreapp3.1\P6 Sum square difference.AssemblyInfoInputs.cache
+C:\Users\tulza\source\repos\tulza\Project-Euler-net\P6 Sum square difference\P6 Sum square difference\obj\Debug\netcoreapp3.1\P6 Sum square difference.AssemblyInfo.cs
+C:\Users\tulza\source\repos\tulza\Project-Euler-net\P6 Sum square difference\P6 Sum square difference\obj\Debug\netcoreapp3.1\P6 Sum square difference.csproj.CoreCompileInputs.cache
+C:\Users\tulza\source\repos\tulza\Project-Euler-net\P6 Sum square difference\P6 Sum square difference\obj\Debug\netcoreapp3.1\P6 Sum square difference.dll
+C:\Users\tulza\source\repos\tulza\Project-Euler-net\P6 Sum square difference\P6 Sum square difference\obj\Debug\netcoreapp3.1\P6 Sum square difference.pdb
+C:\Users\tulza\source\repos\tulza\Project-Euler-net\P6 Sum square difference\P6 Sum square difference\obj\Debug\netcoreapp3.1\P6 Sum square difference.genruntimeconfig.cache
