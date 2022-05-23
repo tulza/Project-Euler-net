@@ -12,3 +12,17 @@ C:\Users\tulza\source\repos\Project Euler net\Mutiples of 3 or 5\Mutiples of 3 o
 C:\Users\tulza\source\repos\Project Euler net\Mutiples of 3 or 5\Mutiples of 3 or 5\obj\Debug\netcoreapp3.1\Mutiples of 3 or 5.dll
 C:\Users\tulza\source\repos\Project Euler net\Mutiples of 3 or 5\Mutiples of 3 or 5\obj\Debug\netcoreapp3.1\Mutiples of 3 or 5.pdb
 C:\Users\tulza\source\repos\Project Euler net\Mutiples of 3 or 5\Mutiples of 3 or 5\obj\Debug\netcoreapp3.1\Mutiples of 3 or 5.genruntimeconfig.cache
+C:\Users\tulza\Source\Repos\tulza\Project-Euler-net\P1 Mutiples of 3 or 5\Mutiples of 3 or 5\bin\Debug\netcoreapp3.1\Mutiples of 3 or 5.exe
+C:\Users\tulza\Source\Repos\tulza\Project-Euler-net\P1 Mutiples of 3 or 5\Mutiples of 3 or 5\bin\Debug\netcoreapp3.1\Mutiples of 3 or 5.deps.json
+C:\Users\tulza\Source\Repos\tulza\Project-Euler-net\P1 Mutiples of 3 or 5\Mutiples of 3 or 5\bin\Debug\netcoreapp3.1\Mutiples of 3 or 5.runtimeconfig.json
+C:\Users\tulza\Source\Repos\tulza\Project-Euler-net\P1 Mutiples of 3 or 5\Mutiples of 3 or 5\bin\Debug\netcoreapp3.1\Mutiples of 3 or 5.runtimeconfig.dev.json
+C:\Users\tulza\Source\Repos\tulza\Project-Euler-net\P1 Mutiples of 3 or 5\Mutiples of 3 or 5\bin\Debug\netcoreapp3.1\Mutiples of 3 or 5.dll
+C:\Users\tulza\Source\Repos\tulza\Project-Euler-net\P1 Mutiples of 3 or 5\Mutiples of 3 or 5\bin\Debug\netcoreapp3.1\Mutiples of 3 or 5.pdb
+C:\Users\tulza\Source\Repos\tulza\Project-Euler-net\P1 Mutiples of 3 or 5\Mutiples of 3 or 5\obj\Debug\netcoreapp3.1\Mutiples of 3 or 5.csproj.AssemblyReference.cache
+C:\Users\tulza\Source\Repos\tulza\Project-Euler-net\P1 Mutiples of 3 or 5\Mutiples of 3 or 5\obj\Debug\netcoreapp3.1\Mutiples of 3 or 5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tulza\Source\Repos\tulza\Project-Euler-net\P1 Mutiples of 3 or 5\Mutiples of 3 or 5\obj\Debug\netcoreapp3.1\Mutiples of 3 or 5.AssemblyInfoInputs.cache
+C:\Users\tulza\Source\Repos\tulza\Project-Euler-net\P1 Mutiples of 3 or 5\Mutiples of 3 or 5\obj\Debug\netcoreapp3.1\Mutiples of 3 or 5.AssemblyInfo.cs
+C:\Users\tulza\Source\Repos\tulza\Project-Euler-net\P1 Mutiples of 3 or 5\Mutiples of 3 or 5\obj\Debug\netcoreapp3.1\Mutiples of 3 or 5.csproj.CoreCompileInputs.cache
+C:\Users\tulza\Source\Repos\tulza\Project-Euler-net\P1 Mutiples of 3 or 5\Mutiples of 3 or 5\obj\Debug\netcoreapp3.1\Mutiples of 3 or 5.dll
+C:\Users\tulza\Source\Repos\tulza\Project-Euler-net\P1 Mutiples of 3 or 5\Mutiples of 3 or 5\obj\Debug\netcoreapp3.1\Mutiples of 3 or 5.pdb
+C:\Users\tulza\Source\Repos\tulza\Project-Euler-net\P1 Mutiples of 3 or 5\Mutiples of 3 or 5\obj\Debug\netcoreapp3.1\Mutiples of 3 or 5.genruntimeconfig.cache

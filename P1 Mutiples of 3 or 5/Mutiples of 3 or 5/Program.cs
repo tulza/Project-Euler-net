@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace Mutiples_of_3_or_5
+namespace P1_Mutiples_of_3_or_5
 {
     class Program
     {

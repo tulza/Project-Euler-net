@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\tulza\\source\\repos\\Project Euler net\\P1 Mutiples of 3 or 5\\Mutiples of 3 or 5\\Mutiples of 3 or 5.csproj": {}
+    "C:\\Users\\tulza\\Source\\Repos\\tulza\\Project-Euler-net\\P1 Mutiples of 3 or 5\\Mutiples of 3 or 5\\Mutiples of 3 or 5.csproj": {}
   },
   "projects": {
-    "C:\\Users\\tulza\\source\\repos\\Project Euler net\\P1 Mutiples of 3 or 5\\Mutiples of 3 or 5\\Mutiples of 3 or 5.csproj": {
+    "C:\\Users\\tulza\\Source\\Repos\\tulza\\Project-Euler-net\\P1 Mutiples of 3 or 5\\Mutiples of 3 or 5\\Mutiples of 3 or 5.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\tulza\\source\\repos\\Project Euler net\\P1 Mutiples of 3 or 5\\Mutiples of 3 or 5\\Mutiples of 3 or 5.csproj",
+        "projectUniqueName": "C:\\Users\\tulza\\Source\\Repos\\tulza\\Project-Euler-net\\P1 Mutiples of 3 or 5\\Mutiples of 3 or 5\\Mutiples of 3 or 5.csproj",
         "projectName": "Mutiples of 3 or 5",
-        "projectPath": "C:\\Users\\tulza\\source\\repos\\Project Euler net\\P1 Mutiples of 3 or 5\\Mutiples of 3 or 5\\Mutiples of 3 or 5.csproj",
+        "projectPath": "C:\\Users\\tulza\\Source\\Repos\\tulza\\Project-Euler-net\\P1 Mutiples of 3 or 5\\Mutiples of 3 or 5\\Mutiples of 3 or 5.csproj",
         "packagesPath": "C:\\Users\\tulza\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\tulza\\source\\repos\\Project Euler net\\P1 Mutiples of 3 or 5\\Mutiples of 3 or 5\\obj\\",
+        "outputPath": "C:\\Users\\tulza\\Source\\Repos\\tulza\\Project-Euler-net\\P1 Mutiples of 3 or 5\\Mutiples of 3 or 5\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

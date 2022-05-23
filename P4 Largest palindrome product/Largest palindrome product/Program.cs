@@ -42,7 +42,7 @@ namespace Largest_palindrome_product
             Console.WriteLine("largest 3 digit palindrome is ");
             Console.WriteLine($"{largestPali} ({ea},{eb})");
             //result: 
-            //906609 (913, 993) (correct) 23/05/22 - Ashton Jitsawatapaiboon
+            //906609 (913, 993) (correct) 23/05/22 - Tulza
 
 
             static bool IsPali(int a)

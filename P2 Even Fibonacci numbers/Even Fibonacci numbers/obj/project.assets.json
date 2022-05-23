@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\tulza\\source\\repos\\Project Euler net\\P2 Even Fibonacci numbers\\Even Fibonacci numbers\\Even Fibonacci numbers.csproj",
+      "projectUniqueName": "C:\\Users\\tulza\\Source\\Repos\\tulza\\Project-Euler-net\\P2 Even Fibonacci numbers\\Even Fibonacci numbers\\Even Fibonacci numbers.csproj",
       "projectName": "Even Fibonacci numbers",
-      "projectPath": "C:\\Users\\tulza\\source\\repos\\Project Euler net\\P2 Even Fibonacci numbers\\Even Fibonacci numbers\\Even Fibonacci numbers.csproj",
+      "projectPath": "C:\\Users\\tulza\\Source\\Repos\\tulza\\Project-Euler-net\\P2 Even Fibonacci numbers\\Even Fibonacci numbers\\Even Fibonacci numbers.csproj",
       "packagesPath": "C:\\Users\\tulza\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\tulza\\source\\repos\\Project Euler net\\P2 Even Fibonacci numbers\\Even Fibonacci numbers\\obj\\",
+      "outputPath": "C:\\Users\\tulza\\Source\\Repos\\tulza\\Project-Euler-net\\P2 Even Fibonacci numbers\\Even Fibonacci numbers\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

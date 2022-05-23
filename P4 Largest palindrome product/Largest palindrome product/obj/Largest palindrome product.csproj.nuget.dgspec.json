@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\tulza\\source\\repos\\Project Euler net\\Largest palindrome product\\Largest palindrome product\\Largest palindrome product.csproj": {}
+    "C:\\Users\\tulza\\Source\\Repos\\tulza\\Project-Euler-net\\P4 Largest palindrome product\\Largest palindrome product\\Largest palindrome product.csproj": {}
   },
   "projects": {
-    "C:\\Users\\tulza\\source\\repos\\Project Euler net\\Largest palindrome product\\Largest palindrome product\\Largest palindrome product.csproj": {
+    "C:\\Users\\tulza\\Source\\Repos\\tulza\\Project-Euler-net\\P4 Largest palindrome product\\Largest palindrome product\\Largest palindrome product.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\tulza\\source\\repos\\Project Euler net\\Largest palindrome product\\Largest palindrome product\\Largest palindrome product.csproj",
+        "projectUniqueName": "C:\\Users\\tulza\\Source\\Repos\\tulza\\Project-Euler-net\\P4 Largest palindrome product\\Largest palindrome product\\Largest palindrome product.csproj",
         "projectName": "Largest palindrome product",
-        "projectPath": "C:\\Users\\tulza\\source\\repos\\Project Euler net\\Largest palindrome product\\Largest palindrome product\\Largest palindrome product.csproj",
+        "projectPath": "C:\\Users\\tulza\\Source\\Repos\\tulza\\Project-Euler-net\\P4 Largest palindrome product\\Largest palindrome product\\Largest palindrome product.csproj",
         "packagesPath": "C:\\Users\\tulza\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\tulza\\source\\repos\\Project Euler net\\Largest palindrome product\\Largest palindrome product\\obj\\",
+        "outputPath": "C:\\Users\\tulza\\Source\\Repos\\tulza\\Project-Euler-net\\P4 Largest palindrome product\\Largest palindrome product\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

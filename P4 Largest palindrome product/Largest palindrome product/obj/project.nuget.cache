@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "skY+djILvbpjWp2MaoIwZvg+Nks2kj12pKf8D3jBrPmMStrqXEtd5iNOBzy4HgzB/Kmr45ehsFaxg6Pd6pkWYw==",
+  "dgSpecHash": "yjFBGCpXVkmY8jo2d+/ZaQstTrGCbO8gRVNLY5+dP7h0KgI8SdAc2GaF3Q/cpwwN7EVFfEHjNBpfChvaoJubVw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\tulza\\source\\repos\\Project Euler net\\Largest palindrome product\\Largest palindrome product\\Largest palindrome product.csproj",
+  "projectFilePath": "C:\\Users\\tulza\\Source\\Repos\\tulza\\Project-Euler-net\\P4 Largest palindrome product\\Largest palindrome product\\Largest palindrome product.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\tulza\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.24\\microsoft.netcore.app.host.win-x64.3.1.24.nupkg.sha512"
   ],

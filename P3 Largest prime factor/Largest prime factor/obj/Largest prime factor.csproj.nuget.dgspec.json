@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\tulza\\source\\repos\\Project Euler net\\P3 Largest prime factor\\Largest prime factor\\Largest prime factor.csproj": {}
+    "C:\\Users\\tulza\\Source\\Repos\\tulza\\Project-Euler-net\\P3 Largest prime factor\\Largest prime factor\\Largest prime factor.csproj": {}
   },
   "projects": {
-    "C:\\Users\\tulza\\source\\repos\\Project Euler net\\P3 Largest prime factor\\Largest prime factor\\Largest prime factor.csproj": {
+    "C:\\Users\\tulza\\Source\\Repos\\tulza\\Project-Euler-net\\P3 Largest prime factor\\Largest prime factor\\Largest prime factor.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\tulza\\source\\repos\\Project Euler net\\P3 Largest prime factor\\Largest prime factor\\Largest prime factor.csproj",
+        "projectUniqueName": "C:\\Users\\tulza\\Source\\Repos\\tulza\\Project-Euler-net\\P3 Largest prime factor\\Largest prime factor\\Largest prime factor.csproj",
         "projectName": "Largest prime factor",
-        "projectPath": "C:\\Users\\tulza\\source\\repos\\Project Euler net\\P3 Largest prime factor\\Largest prime factor\\Largest prime factor.csproj",
+        "projectPath": "C:\\Users\\tulza\\Source\\Repos\\tulza\\Project-Euler-net\\P3 Largest prime factor\\Largest prime factor\\Largest prime factor.csproj",
         "packagesPath": "C:\\Users\\tulza\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\tulza\\source\\repos\\Project Euler net\\P3 Largest prime factor\\Largest prime factor\\obj\\",
+        "outputPath": "C:\\Users\\tulza\\Source\\Repos\\tulza\\Project-Euler-net\\P3 Largest prime factor\\Largest prime factor\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

@@ -11,3 +11,17 @@ C:\Users\tulza\source\repos\Project Euler net\Even Fibonacci numbers\Even Fibona
 C:\Users\tulza\source\repos\Project Euler net\Even Fibonacci numbers\Even Fibonacci numbers\obj\Debug\netcoreapp3.1\Even Fibonacci numbers.dll
 C:\Users\tulza\source\repos\Project Euler net\Even Fibonacci numbers\Even Fibonacci numbers\obj\Debug\netcoreapp3.1\Even Fibonacci numbers.pdb
 C:\Users\tulza\source\repos\Project Euler net\Even Fibonacci numbers\Even Fibonacci numbers\obj\Debug\netcoreapp3.1\Even Fibonacci numbers.genruntimeconfig.cache
+C:\Users\tulza\Source\Repos\tulza\Project-Euler-net\P2 Even Fibonacci numbers\Even Fibonacci numbers\bin\Debug\netcoreapp3.1\Even Fibonacci numbers.exe
+C:\Users\tulza\Source\Repos\tulza\Project-Euler-net\P2 Even Fibonacci numbers\Even Fibonacci numbers\bin\Debug\netcoreapp3.1\Even Fibonacci numbers.deps.json
+C:\Users\tulza\Source\Repos\tulza\Project-Euler-net\P2 Even Fibonacci numbers\Even Fibonacci numbers\bin\Debug\netcoreapp3.1\Even Fibonacci numbers.runtimeconfig.json
+C:\Users\tulza\Source\Repos\tulza\Project-Euler-net\P2 Even Fibonacci numbers\Even Fibonacci numbers\bin\Debug\netcoreapp3.1\Even Fibonacci numbers.runtimeconfig.dev.json
+C:\Users\tulza\Source\Repos\tulza\Project-Euler-net\P2 Even Fibonacci numbers\Even Fibonacci numbers\bin\Debug\netcoreapp3.1\Even Fibonacci numbers.dll
+C:\Users\tulza\Source\Repos\tulza\Project-Euler-net\P2 Even Fibonacci numbers\Even Fibonacci numbers\bin\Debug\netcoreapp3.1\Even Fibonacci numbers.pdb
+C:\Users\tulza\Source\Repos\tulza\Project-Euler-net\P2 Even Fibonacci numbers\Even Fibonacci numbers\obj\Debug\netcoreapp3.1\Even Fibonacci numbers.csproj.AssemblyReference.cache
+C:\Users\tulza\Source\Repos\tulza\Project-Euler-net\P2 Even Fibonacci numbers\Even Fibonacci numbers\obj\Debug\netcoreapp3.1\Even Fibonacci numbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tulza\Source\Repos\tulza\Project-Euler-net\P2 Even Fibonacci numbers\Even Fibonacci numbers\obj\Debug\netcoreapp3.1\Even Fibonacci numbers.AssemblyInfoInputs.cache
+C:\Users\tulza\Source\Repos\tulza\Project-Euler-net\P2 Even Fibonacci numbers\Even Fibonacci numbers\obj\Debug\netcoreapp3.1\Even Fibonacci numbers.AssemblyInfo.cs
+C:\Users\tulza\Source\Repos\tulza\Project-Euler-net\P2 Even Fibonacci numbers\Even Fibonacci numbers\obj\Debug\netcoreapp3.1\Even Fibonacci numbers.csproj.CoreCompileInputs.cache
+C:\Users\tulza\Source\Repos\tulza\Project-Euler-net\P2 Even Fibonacci numbers\Even Fibonacci numbers\obj\Debug\netcoreapp3.1\Even Fibonacci numbers.dll
+C:\Users\tulza\Source\Repos\tulza\Project-Euler-net\P2 Even Fibonacci numbers\Even Fibonacci numbers\obj\Debug\netcoreapp3.1\Even Fibonacci numbers.pdb
+C:\Users\tulza\Source\Repos\tulza\Project-Euler-net\P2 Even Fibonacci numbers\Even Fibonacci numbers\obj\Debug\netcoreapp3.1\Even Fibonacci numbers.genruntimeconfig.cache
