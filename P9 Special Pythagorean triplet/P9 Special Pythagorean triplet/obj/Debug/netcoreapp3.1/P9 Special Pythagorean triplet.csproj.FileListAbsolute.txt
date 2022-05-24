@@ -1,0 +1,14 @@
+C:\Users\tulza\source\repos\tulza\Project-Euler-net\P9 Special Pythagorean triplet\P9 Special Pythagorean triplet\bin\Debug\netcoreapp3.1\P9 Special Pythagorean triplet.exe
+C:\Users\tulza\source\repos\tulza\Project-Euler-net\P9 Special Pythagorean triplet\P9 Special Pythagorean triplet\bin\Debug\netcoreapp3.1\P9 Special Pythagorean triplet.deps.json
+C:\Users\tulza\source\repos\tulza\Project-Euler-net\P9 Special Pythagorean triplet\P9 Special Pythagorean triplet\bin\Debug\netcoreapp3.1\P9 Special Pythagorean triplet.runtimeconfig.json
+C:\Users\tulza\source\repos\tulza\Project-Euler-net\P9 Special Pythagorean triplet\P9 Special Pythagorean triplet\bin\Debug\netcoreapp3.1\P9 Special Pythagorean triplet.runtimeconfig.dev.json
+C:\Users\tulza\source\repos\tulza\Project-Euler-net\P9 Special Pythagorean triplet\P9 Special Pythagorean triplet\bin\Debug\netcoreapp3.1\P9 Special Pythagorean triplet.dll
+C:\Users\tulza\source\repos\tulza\Project-Euler-net\P9 Special Pythagorean triplet\P9 Special Pythagorean triplet\bin\Debug\netcoreapp3.1\P9 Special Pythagorean triplet.pdb
+C:\Users\tulza\source\repos\tulza\Project-Euler-net\P9 Special Pythagorean triplet\P9 Special Pythagorean triplet\obj\Debug\netcoreapp3.1\P9 Special Pythagorean triplet.csproj.AssemblyReference.cache
+C:\Users\tulza\source\repos\tulza\Project-Euler-net\P9 Special Pythagorean triplet\P9 Special Pythagorean triplet\obj\Debug\netcoreapp3.1\P9 Special Pythagorean triplet.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tulza\source\repos\tulza\Project-Euler-net\P9 Special Pythagorean triplet\P9 Special Pythagorean triplet\obj\Debug\netcoreapp3.1\P9 Special Pythagorean triplet.AssemblyInfoInputs.cache
+C:\Users\tulza\source\repos\tulza\Project-Euler-net\P9 Special Pythagorean triplet\P9 Special Pythagorean triplet\obj\Debug\netcoreapp3.1\P9 Special Pythagorean triplet.AssemblyInfo.cs
+C:\Users\tulza\source\repos\tulza\Project-Euler-net\P9 Special Pythagorean triplet\P9 Special Pythagorean triplet\obj\Debug\netcoreapp3.1\P9 Special Pythagorean triplet.csproj.CoreCompileInputs.cache
+C:\Users\tulza\source\repos\tulza\Project-Euler-net\P9 Special Pythagorean triplet\P9 Special Pythagorean triplet\obj\Debug\netcoreapp3.1\P9 Special Pythagorean triplet.dll
+C:\Users\tulza\source\repos\tulza\Project-Euler-net\P9 Special Pythagorean triplet\P9 Special Pythagorean triplet\obj\Debug\netcoreapp3.1\P9 Special Pythagorean triplet.pdb
+C:\Users\tulza\source\repos\tulza\Project-Euler-net\P9 Special Pythagorean triplet\P9 Special Pythagorean triplet\obj\Debug\netcoreapp3.1\P9 Special Pythagorean triplet.genruntimeconfig.cache

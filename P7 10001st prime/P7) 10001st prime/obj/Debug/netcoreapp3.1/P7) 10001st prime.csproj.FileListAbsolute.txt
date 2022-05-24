@@ -1,0 +1,14 @@
+C:\Users\tulza\source\repos\tulza\Project-Euler-net\P7) 10001st prime\P7) 10001st prime\bin\Debug\netcoreapp3.1\P7) 10001st prime.exe
+C:\Users\tulza\source\repos\tulza\Project-Euler-net\P7) 10001st prime\P7) 10001st prime\bin\Debug\netcoreapp3.1\P7) 10001st prime.deps.json
+C:\Users\tulza\source\repos\tulza\Project-Euler-net\P7) 10001st prime\P7) 10001st prime\bin\Debug\netcoreapp3.1\P7) 10001st prime.runtimeconfig.json
+C:\Users\tulza\source\repos\tulza\Project-Euler-net\P7) 10001st prime\P7) 10001st prime\bin\Debug\netcoreapp3.1\P7) 10001st prime.runtimeconfig.dev.json
+C:\Users\tulza\source\repos\tulza\Project-Euler-net\P7) 10001st prime\P7) 10001st prime\bin\Debug\netcoreapp3.1\P7) 10001st prime.dll
+C:\Users\tulza\source\repos\tulza\Project-Euler-net\P7) 10001st prime\P7) 10001st prime\bin\Debug\netcoreapp3.1\P7) 10001st prime.pdb
+C:\Users\tulza\source\repos\tulza\Project-Euler-net\P7) 10001st prime\P7) 10001st prime\obj\Debug\netcoreapp3.1\P7) 10001st prime.csproj.AssemblyReference.cache
+C:\Users\tulza\source\repos\tulza\Project-Euler-net\P7) 10001st prime\P7) 10001st prime\obj\Debug\netcoreapp3.1\P7) 10001st prime.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tulza\source\repos\tulza\Project-Euler-net\P7) 10001st prime\P7) 10001st prime\obj\Debug\netcoreapp3.1\P7) 10001st prime.AssemblyInfoInputs.cache
+C:\Users\tulza\source\repos\tulza\Project-Euler-net\P7) 10001st prime\P7) 10001st prime\obj\Debug\netcoreapp3.1\P7) 10001st prime.AssemblyInfo.cs
+C:\Users\tulza\source\repos\tulza\Project-Euler-net\P7) 10001st prime\P7) 10001st prime\obj\Debug\netcoreapp3.1\P7) 10001st prime.csproj.CoreCompileInputs.cache
+C:\Users\tulza\source\repos\tulza\Project-Euler-net\P7) 10001st prime\P7) 10001st prime\obj\Debug\netcoreapp3.1\P7) 10001st prime.dll
+C:\Users\tulza\source\repos\tulza\Project-Euler-net\P7) 10001st prime\P7) 10001st prime\obj\Debug\netcoreapp3.1\P7) 10001st prime.pdb
+C:\Users\tulza\source\repos\tulza\Project-Euler-net\P7) 10001st prime\P7) 10001st prime\obj\Debug\netcoreapp3.1\P7) 10001st prime.genruntimeconfig.cache

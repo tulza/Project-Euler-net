@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "wY8e9Hho//ZW1Sg6pW1PdoqEkNzz7mLP1ZBCOk/xwaPUmV4O1yZgO1J2sQwsSMxDtIddoPTy043yoR2rLbNItg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\tulza\\source\\repos\\tulza\\Project-Euler-net\\P8) Largest product in a series\\P8) Largest product in a series\\P8) Largest product in a series.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\tulza\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.24\\microsoft.netcore.app.host.win-x64.3.1.24.nupkg.sha512"
+  ],
+  "logs": []
+}
