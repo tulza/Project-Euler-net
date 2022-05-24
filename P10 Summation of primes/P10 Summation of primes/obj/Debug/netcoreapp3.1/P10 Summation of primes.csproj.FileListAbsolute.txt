@@ -1,0 +1,14 @@
+C:\Users\tulza\source\repos\tulza\Project-Euler-net\P10 Summation of primes\P10 Summation of primes\bin\Debug\netcoreapp3.1\P10 Summation of primes.exe
+C:\Users\tulza\source\repos\tulza\Project-Euler-net\P10 Summation of primes\P10 Summation of primes\bin\Debug\netcoreapp3.1\P10 Summation of primes.deps.json
+C:\Users\tulza\source\repos\tulza\Project-Euler-net\P10 Summation of primes\P10 Summation of primes\bin\Debug\netcoreapp3.1\P10 Summation of primes.runtimeconfig.json
+C:\Users\tulza\source\repos\tulza\Project-Euler-net\P10 Summation of primes\P10 Summation of primes\bin\Debug\netcoreapp3.1\P10 Summation of primes.runtimeconfig.dev.json
+C:\Users\tulza\source\repos\tulza\Project-Euler-net\P10 Summation of primes\P10 Summation of primes\bin\Debug\netcoreapp3.1\P10 Summation of primes.dll
+C:\Users\tulza\source\repos\tulza\Project-Euler-net\P10 Summation of primes\P10 Summation of primes\bin\Debug\netcoreapp3.1\P10 Summation of primes.pdb
+C:\Users\tulza\source\repos\tulza\Project-Euler-net\P10 Summation of primes\P10 Summation of primes\obj\Debug\netcoreapp3.1\P10 Summation of primes.csproj.AssemblyReference.cache
+C:\Users\tulza\source\repos\tulza\Project-Euler-net\P10 Summation of primes\P10 Summation of primes\obj\Debug\netcoreapp3.1\P10 Summation of primes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tulza\source\repos\tulza\Project-Euler-net\P10 Summation of primes\P10 Summation of primes\obj\Debug\netcoreapp3.1\P10 Summation of primes.AssemblyInfoInputs.cache
+C:\Users\tulza\source\repos\tulza\Project-Euler-net\P10 Summation of primes\P10 Summation of primes\obj\Debug\netcoreapp3.1\P10 Summation of primes.AssemblyInfo.cs
+C:\Users\tulza\source\repos\tulza\Project-Euler-net\P10 Summation of primes\P10 Summation of primes\obj\Debug\netcoreapp3.1\P10 Summation of primes.csproj.CoreCompileInputs.cache
+C:\Users\tulza\source\repos\tulza\Project-Euler-net\P10 Summation of primes\P10 Summation of primes\obj\Debug\netcoreapp3.1\P10 Summation of primes.dll
+C:\Users\tulza\source\repos\tulza\Project-Euler-net\P10 Summation of primes\P10 Summation of primes\obj\Debug\netcoreapp3.1\P10 Summation of primes.pdb
+C:\Users\tulza\source\repos\tulza\Project-Euler-net\P10 Summation of primes\P10 Summation of primes\obj\Debug\netcoreapp3.1\P10 Summation of primes.genruntimeconfig.cache

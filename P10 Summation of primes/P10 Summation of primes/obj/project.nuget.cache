@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "BylzZXs1R7rNcQPoqmb6EH0fnzchSvcOcBuhsVZH8BvSZvCKzsJuDeUWXKlqkab6Fb+JKwYRYB9jAjAJN4O9+Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\tulza\\source\\repos\\tulza\\Project-Euler-net\\P10 Summation of primes\\P10 Summation of primes\\P10 Summation of primes.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\tulza\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.24\\microsoft.netcore.app.host.win-x64.3.1.24.nupkg.sha512"
+  ],
+  "logs": []
+}
