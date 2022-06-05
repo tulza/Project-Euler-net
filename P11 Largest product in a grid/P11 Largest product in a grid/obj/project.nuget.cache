@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "wlp4arCvu8l9t2IVK7Zx8LfnVhxaIlbvFSFs79GELX6PzFlHcKx8G6zor57SgUog+jubEb5Ca1JQcAJC1qCswQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\tulza\\source\\repos\\tulza\\Project-Euler-net\\P11 Largest product in a grid\\P11 Largest product in a grid\\P11 Largest product in a grid.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\tulza\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.24\\microsoft.netcore.app.host.win-x64.3.1.24.nupkg.sha512"
+  ],
+  "logs": []
+}

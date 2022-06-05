@@ -18,3 +18,6 @@ Repository of me trying to solve and optimise project euler's problems
 	P8) largest product in a series - solved(24/05/22) - Diff 5%        https://projecteuler.net/problem=8   
 	P9) Special Pythagorean triplet - solved(24/05/22) -Diff 5%			https://projecteuler.net/problem=9
 	P10) Summation of primes - solved(24/05/22) -Diff 5%				https://projecteuler.net/problem=10
+
+2022 June
+	P11) Largest product in a grid - solved(5/06/22) -Diff 5%			https://projecteuler.net/problem=11 Comment: Could be better

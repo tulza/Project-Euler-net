@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "A15qxh/cHIkF4bgtiPx90DyX1lkttJ8fxGVYP8GqKWa3PBuUpG5LkeMbOlZ3rJT3VwFwEilRMyDqSjWmUFx9KQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\tulza\\source\\repos\\tulza\\Project-Euler-net\\count of total 1000 pp by ---\\count of total 1000 pp by ---\\count of total 1000 pp by ---.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\tulza\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.24\\microsoft.netcore.app.host.win-x64.3.1.24.nupkg.sha512"
+  ],
+  "logs": []
+}

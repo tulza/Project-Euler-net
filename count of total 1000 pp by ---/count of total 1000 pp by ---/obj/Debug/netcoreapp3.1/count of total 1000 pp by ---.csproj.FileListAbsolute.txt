@@ -1,0 +1,14 @@
+C:\Users\tulza\source\repos\tulza\Project-Euler-net\count of total 1000 pp by ---\count of total 1000 pp by ---\bin\Debug\netcoreapp3.1\count of total 1000 pp by ---.exe
+C:\Users\tulza\source\repos\tulza\Project-Euler-net\count of total 1000 pp by ---\count of total 1000 pp by ---\bin\Debug\netcoreapp3.1\count of total 1000 pp by ---.deps.json
+C:\Users\tulza\source\repos\tulza\Project-Euler-net\count of total 1000 pp by ---\count of total 1000 pp by ---\bin\Debug\netcoreapp3.1\count of total 1000 pp by ---.runtimeconfig.json
+C:\Users\tulza\source\repos\tulza\Project-Euler-net\count of total 1000 pp by ---\count of total 1000 pp by ---\bin\Debug\netcoreapp3.1\count of total 1000 pp by ---.runtimeconfig.dev.json
+C:\Users\tulza\source\repos\tulza\Project-Euler-net\count of total 1000 pp by ---\count of total 1000 pp by ---\bin\Debug\netcoreapp3.1\count of total 1000 pp by ---.dll
+C:\Users\tulza\source\repos\tulza\Project-Euler-net\count of total 1000 pp by ---\count of total 1000 pp by ---\bin\Debug\netcoreapp3.1\count of total 1000 pp by ---.pdb
+C:\Users\tulza\source\repos\tulza\Project-Euler-net\count of total 1000 pp by ---\count of total 1000 pp by ---\obj\Debug\netcoreapp3.1\count of total 1000 pp by ---.csproj.AssemblyReference.cache
+C:\Users\tulza\source\repos\tulza\Project-Euler-net\count of total 1000 pp by ---\count of total 1000 pp by ---\obj\Debug\netcoreapp3.1\count of total 1000 pp by ---.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tulza\source\repos\tulza\Project-Euler-net\count of total 1000 pp by ---\count of total 1000 pp by ---\obj\Debug\netcoreapp3.1\count of total 1000 pp by ---.AssemblyInfoInputs.cache
+C:\Users\tulza\source\repos\tulza\Project-Euler-net\count of total 1000 pp by ---\count of total 1000 pp by ---\obj\Debug\netcoreapp3.1\count of total 1000 pp by ---.AssemblyInfo.cs
+C:\Users\tulza\source\repos\tulza\Project-Euler-net\count of total 1000 pp by ---\count of total 1000 pp by ---\obj\Debug\netcoreapp3.1\count of total 1000 pp by ---.csproj.CoreCompileInputs.cache
+C:\Users\tulza\source\repos\tulza\Project-Euler-net\count of total 1000 pp by ---\count of total 1000 pp by ---\obj\Debug\netcoreapp3.1\count of total 1000 pp by ---.dll
+C:\Users\tulza\source\repos\tulza\Project-Euler-net\count of total 1000 pp by ---\count of total 1000 pp by ---\obj\Debug\netcoreapp3.1\count of total 1000 pp by ---.pdb
+C:\Users\tulza\source\repos\tulza\Project-Euler-net\count of total 1000 pp by ---\count of total 1000 pp by ---\obj\Debug\netcoreapp3.1\count of total 1000 pp by ---.genruntimeconfig.cache

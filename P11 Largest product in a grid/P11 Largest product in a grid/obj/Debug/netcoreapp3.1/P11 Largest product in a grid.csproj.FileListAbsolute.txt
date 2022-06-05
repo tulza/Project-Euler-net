@@ -1,0 +1,14 @@
+C:\Users\tulza\source\repos\tulza\Project-Euler-net\P11 Largest product in a grid\P11 Largest product in a grid\bin\Debug\netcoreapp3.1\P11 Largest product in a grid.exe
+C:\Users\tulza\source\repos\tulza\Project-Euler-net\P11 Largest product in a grid\P11 Largest product in a grid\bin\Debug\netcoreapp3.1\P11 Largest product in a grid.deps.json
+C:\Users\tulza\source\repos\tulza\Project-Euler-net\P11 Largest product in a grid\P11 Largest product in a grid\bin\Debug\netcoreapp3.1\P11 Largest product in a grid.runtimeconfig.json
+C:\Users\tulza\source\repos\tulza\Project-Euler-net\P11 Largest product in a grid\P11 Largest product in a grid\bin\Debug\netcoreapp3.1\P11 Largest product in a grid.runtimeconfig.dev.json
+C:\Users\tulza\source\repos\tulza\Project-Euler-net\P11 Largest product in a grid\P11 Largest product in a grid\bin\Debug\netcoreapp3.1\P11 Largest product in a grid.dll
+C:\Users\tulza\source\repos\tulza\Project-Euler-net\P11 Largest product in a grid\P11 Largest product in a grid\bin\Debug\netcoreapp3.1\P11 Largest product in a grid.pdb
+C:\Users\tulza\source\repos\tulza\Project-Euler-net\P11 Largest product in a grid\P11 Largest product in a grid\obj\Debug\netcoreapp3.1\P11 Largest product in a grid.csproj.AssemblyReference.cache
+C:\Users\tulza\source\repos\tulza\Project-Euler-net\P11 Largest product in a grid\P11 Largest product in a grid\obj\Debug\netcoreapp3.1\P11 Largest product in a grid.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tulza\source\repos\tulza\Project-Euler-net\P11 Largest product in a grid\P11 Largest product in a grid\obj\Debug\netcoreapp3.1\P11 Largest product in a grid.AssemblyInfoInputs.cache
+C:\Users\tulza\source\repos\tulza\Project-Euler-net\P11 Largest product in a grid\P11 Largest product in a grid\obj\Debug\netcoreapp3.1\P11 Largest product in a grid.AssemblyInfo.cs
+C:\Users\tulza\source\repos\tulza\Project-Euler-net\P11 Largest product in a grid\P11 Largest product in a grid\obj\Debug\netcoreapp3.1\P11 Largest product in a grid.csproj.CoreCompileInputs.cache
+C:\Users\tulza\source\repos\tulza\Project-Euler-net\P11 Largest product in a grid\P11 Largest product in a grid\obj\Debug\netcoreapp3.1\P11 Largest product in a grid.dll
+C:\Users\tulza\source\repos\tulza\Project-Euler-net\P11 Largest product in a grid\P11 Largest product in a grid\obj\Debug\netcoreapp3.1\P11 Largest product in a grid.pdb
+C:\Users\tulza\source\repos\tulza\Project-Euler-net\P11 Largest product in a grid\P11 Largest product in a grid\obj\Debug\netcoreapp3.1\P11 Largest product in a grid.genruntimeconfig.cache
